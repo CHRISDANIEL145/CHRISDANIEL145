@@ -51,33 +51,6 @@ I think I am funny 😄
 
 ---
 
-## 🛠️ Skills  
-
-### Programming Languages  
-`Java` | `C` | `Python`  
-
-### Frontend Development  
-`React` | `Bootstrap` | `JavaScript` | `Tailwind` | `CSS3` | `HTML5`  
-
-### Backend Development  
-`Node.js`  
-
-### AI/ML  
-`TensorFlow` | `PyTorch` | `Scikit-Learn` | `Pandas` | `OpenCV` | `Seaborn`  
-
-### Databases  
-`MongoDB` | `MySQL`  
-
-### DevOps & Cloud  
-`AWS` | `Docker` | `GCP` | `Azure` | `CircleCI`  
-
-### Frameworks  
-`Flask`  
-
-### Tools & Platforms  
-`Git` | `Linux`  
-
-
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4b5b84fa-e03f-4d0b-88f8-6c755a26d417" />
 
 ## 🌍 Connect with me  
