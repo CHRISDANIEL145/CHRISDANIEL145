@@ -1,6 +1,6 @@
-##🚀 About Me
+🚀 About Me
 
-##I’m Daniel Christopher.M, a passionate computer science student with a strong focus on Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.
+I’m Daniel Christopher.M, a passionate computer science student with a strong focus on Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.
 
 💡 I specialize in Python and cutting-edge AI-driven projects, with hands-on experience in building intelligent solutions that merge technical expertise with real-world applications.
 
