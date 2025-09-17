@@ -50,9 +50,33 @@ I’m Daniel Christopher.M, a passionate computer science student with a strong 
 I think I am funny 😄  
 
 ---
-## SKILLS
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/049d2cc3-0d73-4cd4-a6b2-286d1d95496d" />
+## 🛠 Skills  
 
+### Programming Languages  
+Java | C | Python  
+
+### Frontend Development  
+React | Bootstrap | JavaScript | Tailwind | CSS3 | HTML5  
+
+### Backend Development  
+Node.js  
+
+### AI/ML  
+TensorFlow | PyTorch | Scikit-Learn | Pandas | OpenCV | Seaborn  
+
+### Databases  
+MongoDB | MySQL  
+
+### DevOps & Cloud  
+AWS | Docker | GCP | Azure | CircleCI  
+
+### Frameworks  
+Flask  
+
+### Tools & Platforms  
+Git | Linux
+
+---
 ## 🌍 Connect with me  
 
 - [GitHub](https://github.com/chrisdaniel145)  
