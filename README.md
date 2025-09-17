@@ -1,12 +1,16 @@
-# Hi 👋, I'm Daniel Christopher.M  
+##🚀 About Me
 
-### 🚀 A passionate computer science student exploring AI, ML, DL & Data Science  
+##I’m Daniel Christopher.M, a passionate computer science student with a strong focus on Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.
 
-🔹 Proficient in Python with hands-on AI-driven projects  
-🔹 Strong problem-solving, analytical, communication & teamwork skills  
-🔹 Actively seeking opportunities to contribute to innovative projects  
+💡 I specialize in Python and cutting-edge AI-driven projects, with hands-on experience in building intelligent solutions that merge technical expertise with real-world applications.
 
----
+🧩 Known for my problem-solving mindset, analytical approach, communication skills, and teamwork, I thrive in collaborative environments where innovation meets impact.
+
+⚡ Beyond academics, I’m a Prompt Engineer and a Freelancer, working on challenging projects that push the boundaries of what AI can achieve.
+
+🌍 With a vision to become a future Entrepreneur, I’m driven to transform ideas into scalable solutions that empower people and businesses alike.
+
+✨ My journey is all about learning, creating, and leading in the evolving world of technology.
 
 ## 💼 Work  
 
