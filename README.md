@@ -50,8 +50,8 @@ I’m Daniel Christopher.M, a passionate computer science student with a strong 
 I think I am funny 😄  
 
 ---
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4b5b84fa-e03f-4d0b-88f8-6c755a26d417" />
+## SKILLS
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/049d2cc3-0d73-4cd4-a6b2-286d1d95496d" />
 
 ## 🌍 Connect with me  
 
