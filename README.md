@@ -77,7 +77,8 @@ I think I am funny 😄
 ### Tools & Platforms  
 `Git` | `Linux`  
 
----
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4b5b84fa-e03f-4d0b-88f8-6c755a26d417" />
 
 ## 🌍 Connect with me  
 
